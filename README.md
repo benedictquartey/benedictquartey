@@ -1,7 +1,6 @@
 - 👋 Hi, ny name is Benedict
 - 📚 I am a Computer Science PhD student at Brown University.
 - 🤖 My research interests lie at the intersection of language, perception and robot learning.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @benedict_Q on Twitter and my website
 
 <!---
